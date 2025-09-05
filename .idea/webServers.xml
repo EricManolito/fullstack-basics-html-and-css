@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c76446a1-e538-4591-8103-f412ab5d0151" name="fullstack-basics-html-and-css" url="http://ddc-web-student.cnm.edu/~emanolito/public_html/fullstack-basics-html-and-css">
+        <fileTransfer rootFolder="/home/emanolito/public_html/fullstack-basics-html-and-css" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="035e924e-9b1c-47c2-99d0-7d1b816f40a2" sshConfig="emanolito@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
